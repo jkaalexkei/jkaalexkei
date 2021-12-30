@@ -9,7 +9,8 @@
     
             'FrontEnd':('HTML','CSS','JS'),
             'BackEnd':('PHP','PYTHON'),
-            'FrameWorks':('Bootstrap','Django')
+            'FrameWorks':('Bootstrap','Django'),
+            'CMS':('Drupal','Wordpress')
             
              } 
   }
