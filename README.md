@@ -16,3 +16,8 @@
              } 
   }
 ```
+
+#### Social Media
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='background-color:blue'>](https://www.linkedin.com/in/alexander-varela-4672ba33/)  
+
