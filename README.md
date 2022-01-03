@@ -16,8 +16,17 @@
              } 
   }
 ```
+!["HTML"](https://cdn-icons-png.flaticon.com/128/5968/5968267.png "HTML")
+!["CSS"](https://cdn-icons-png.flaticon.com/128/732/732190.png "CSS")
+!["JS"](https://cdn-icons-png.flaticon.com/128/5968/5968292.png "JS")
+!["Python"](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png "python")
+!["PHP"](https://cdn-icons-png.flaticon.com/128/5968/5968332.png "PHP")
+!["DJANGO"](https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_django_icon_130645.png "DJANGO")
+!["BOOTSTRAP"](https://cdn-icons-png.flaticon.com/128/5968/5968672.png "BOOTSTRAP")
+!["DRUPAL"](https://cdn.icon-icons.com/icons2/2415/PNG/128/drupal_original_logo_icon_146542.png "DRUPAL")
+!["WORDPRESS"](https://cdn.icon-icons.com/icons2/832/PNG/128/wordpress_icon-icons.com_66678.png "WORDPRESS")
 
-#### Social Media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='background-color:blue'>](https://www.linkedin.com/in/alexander-varela-4672ba33/)  
+
+
 
